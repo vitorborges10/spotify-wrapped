@@ -62,7 +62,7 @@ npm start
   <img src="./assets/playlists.png" width="700">
 </p>
 
-### Artistas mais ouvidos
+  ###  Músicas mais ouvidas
 <p align="center">
   <img src="./assets/toplistened.png" width="700">
 </p>
