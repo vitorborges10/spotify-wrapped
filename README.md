@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Spotify Wrapped — Projeto Integrador
+👥 Integrantes do Grupo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Vitor de Assis P. Borges
+Rafael Furtado
+Ryan Ribeiro
 
-## Available Scripts
+Aplicação web inspirada no **Spotify Wrapped**, desenvolvida como parte do **Projeto Integrador** do curso de Ciência da Computação.
 
-In the project directory, you can run:
+O projeto consome a **Spotify Web API** para coletar e apresentar dados musicais do usuário, como hábitos de escuta e preferências, organizando essas informações de forma visual e interativa.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Objetivo do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Desenvolver uma aplicação prática que integre:
+- Consumo de APIs externas
+- Autenticação com serviços terceiros
+- Manipulação e visualização de dados
+- Desenvolvimento de aplicações frontend modernas
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias Utilizadas
 
-### `npm run build`
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Spotify Web API
+- Node.js / npm
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Como executar o projeto localmente
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> ⚠️ **Importante:** antes de rodar qualquer comando, instale as dependências do projeto.
 
-### `npm run eject`
+### 
+1️⃣ Instalar dependências
+```bash
+npm install
+2️⃣ Executar o projeto
+npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🖼️ Visão geral do projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Tela inicial
+<p align="center">
+  <img src="./assets/home.png" width="700">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Conexão com o Spotify
+<p align="center">
+  <img src="./assets/connect.png" width="700">
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Tela de carregamento
+<p align="center">
+  <img src="./assets/loading.png" width="700">
+</p>
 
-## Learn More
+### Playlists
+<p align="center">
+  <img src="./assets/playlists.png" width="700">
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Artistas mais ouvidos
+<p align="center">
+  <img src="./assets/toplistened.png" width="700">
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Album Collage
+<p align="center">
+  <img src="./assets/albumcollage.png" width="700">
+</p>
