@@ -1,9 +1,7 @@
 # Spotify Wrapped — Projeto Integrador
 👥 Integrantes do Grupo
 
-Vitor de Assis P. Borges
-Rafael Furtado
-Ryan Ribeiro
+Vitor de Assis P. Borges, Rafael Furtado, Ryan Ribeiro
 
 Aplicação web inspirada no **Spotify Wrapped**, desenvolvida como parte do **Projeto Integrador** do curso de Ciência da Computação.
 
