@@ -31,14 +31,14 @@ Desenvolver uma aplicação prática que integre:
 
 ---
 
-## 🚀 Como executar o projeto localmente
+##  Como executar o projeto localmente
 
 > ⚠️ **Importante:** antes de rodar qualquer comando, instale as dependências do projeto.
 
 ### 
 1️⃣ Instalar dependências
-```bash
 npm install
+
 2️⃣ Executar o projeto
 npm start
 
